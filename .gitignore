@@ -1,0 +1,16 @@
+# Node.js
+node_modules
+
+# TypeScript
+*.js
+*.map
+*.d.ts
+
+# Babylon.js
+dist/
+typings/
+Babylon.js-master/
+
+# Other
+.cache/
+cache/

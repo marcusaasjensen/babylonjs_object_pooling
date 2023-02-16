@@ -1,0 +1,21 @@
+{
+  "name": "babylonjs_object_pooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ammojs-typed": "^1.0.6",
+    "babylonjs": "^5.46.0",
+    "regenerator-runtime": "^0.13.11"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.9.5"
+  }
+}
